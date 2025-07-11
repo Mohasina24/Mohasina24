@@ -11,7 +11,6 @@ Welcome to my GitHub portfolio! I’m a tech enthusiast passionate about buildin
 ### 🔹 Graduate Selection Process System
 - **Tech Stack:** Java, HTML, CSS, JavaScript
 - A simulation of a graduate selection system with custom logic and frontend validation.
-- 🔗 [Source Code](https://github.com/YOUR-USERNAME/GraduateSelectionProject)
 
 ### 🔹 Tic-Tac-Toe Game (Java)
 - A CLI-based classic 2-player game with decision logic and winner checks.
@@ -19,7 +18,7 @@ Welcome to my GitHub portfolio! I’m a tech enthusiast passionate about buildin
 
 ### 🔹 Modern Landing Page
 - A responsive and mobile-friendly landing page with animations.
-- 🔗 [Source Code](https://github.com/YOUR-USERNAME/LandingPage)
+- 🔗 [Source Code]https://github.com/Mohasina24/Landing-Page
 
 ---
 
