@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! I’m a tech enthusiast passionate about buildin
 
 ### 🔹 Tic-Tac-Toe Game (Java)
 - A CLI-based classic 2-player game with decision logic and winner checks.
-- 🔗 [Source Code](https://github.com/YOUR-USERNAME/TicTacToeGame)
+- 🔗 [Source Code]https://github.com/Mohasina24/Tic-Toc-Toe-Game
 
 ### 🔹 Modern Landing Page
 - A responsive and mobile-friendly landing page with animations.
